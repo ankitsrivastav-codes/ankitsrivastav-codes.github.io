@@ -1,4 +1,4 @@
-# Ankit Srivastav
+# SAP Technical Consultant
 SAP S/4 HANA Consultant with a decade of rich experience in development, implementation, and maintenance projects. Skilled in SAP life cycle involving, implementation, upgrade, rollout, support, and performance tuning; in-depth understanding of mapping clients’ requirements, designing and proposing solutions for custom developments. Responsible for working with SAP technical, functional, and business teams for GAP analysis, formalization of Specification, Designing and Development.
 
 ## Core Competencies
