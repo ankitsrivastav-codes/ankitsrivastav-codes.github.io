@@ -10,6 +10,11 @@ SAP S/4 HANA Consultant with a decade of rich experience in development, impleme
 - BOPF
 - Fiori Elements
 
+## Major Accountabilities
+- Delivery/Solution Provider: Providing solutions and finalizing design approach for all developments, ensuring timely delivery by taking ownership starting from the analysis, build, and testing phase for each development
+- Project Management: Solution Designing, Delivery, Quality Processes, Estimation, Reviews, and Status Reporting. Coordinating with various stakeholders like Clients, Project Managers, Product Owners, Leadership to ensure a successful realization phase
+- People Management: Right selection of the resources, training, and development of the resources for their overall development
+
 ## Certifications
 -	SAP Certified Development Specialist - ABAP for SAP HANA 2.0
 -	SAP Certified Development Associate – SAP Fiori Application Developer
